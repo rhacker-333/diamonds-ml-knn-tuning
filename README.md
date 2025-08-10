@@ -41,7 +41,7 @@ The **Diamonds** dataset consists of **53,940 observations** with variables desc
 
 Given the multi-class nature of the problem and the subtle patterns in the dataset, this accuracy is reasonable for KNN with only numeric predictors.
 
-<img width="597" height="525" alt="image" src="https://github.com/user-attachments/assets/81c45897-3229-4a28-bb46-facdab43e78b" />
+<img width="533" height="524" alt="image" src="https://github.com/user-attachments/assets/97b29319-0d05-4fb1-ac84-83f0402f6cc7" />
 
 <img width="559" height="542" alt="image" src="https://github.com/user-attachments/assets/69a21750-113e-4ab1-9fab-5a1d2620480c" />
 
