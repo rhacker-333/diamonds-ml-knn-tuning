@@ -53,7 +53,7 @@ Given the multi-class nature of the problem and the subtle patterns in the datas
 ## 🚀 Usage
 To reproduce the analysis:
 1. Clone this repository.
-2. Open the R notebook file - change its extension  to `.ipynb`
+2. Use the `.ipynb` file or  Open the R notebook file after changing its extension  to `.ipynb`
 3. Now open the file using Kaggle
 4. Run all cells sequentially to reproduce preprocessing, training, tuning, and evaluation steps.
 
